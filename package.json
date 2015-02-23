@@ -2,7 +2,7 @@
   "name": "smyck",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A short description of your syntax theme",
+  "description": "Smyck color scheme for atom - http://color.smyck.org",
   "repository": "https://github.com/josa42/atom-smyck",
   "license": "MIT",
   "engines": {
